@@ -8,5 +8,6 @@ A few months we had implemented RSA encryption from scratch with tweakable secur
 
 ## Authors
 
-* [**Awnon Bhowmik**](https://github.com/awnonbhowmik)
 * [**Unnikrishnan Menon**](https://github.com/7enTropy7)
+* [**Awnon Bhowmik**](https://github.com/awnonbhowmik)
+
