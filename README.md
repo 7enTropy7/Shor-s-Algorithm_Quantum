@@ -1,4 +1,4 @@
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Stargazers][stars-shield]][stars-url]
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Stargazers][stars-shield]][https://github.com/7enTropy7/Shor-s-Algorithm_Quantum/stargazers]
 
 # Shor-s-Algorithm_Quantum
 
