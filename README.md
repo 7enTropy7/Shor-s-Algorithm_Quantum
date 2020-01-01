@@ -1,7 +1,6 @@
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Stargazers][stars-shield]][stars-url]
 
 # Shor-s-Algorithm_Quantum
-
 
 A few months we had implemented RSA encryption from scratch with tweakable security parameters. This is a practical implementation of Shor's Algorithm to break our RSA encryption layer.
 
@@ -12,10 +11,6 @@ We made use of IBM's Quantum Experience Qiskit module in jupyternotebook for des
 Qiskit is an open-source quantum computing software development framework for leveraging today's quantum processors in research, education, and business.
 
 If a quantum computer with a sufficient number of qubits could operate without succumbing to quantum noise and other quantum-decoherence phenomena, then Shor's algorithm could be used to break public-key cryptography schemes, such as the widely-used RSA scheme. RSA is based on the assumption that factoring large integers is computationally intractable. 
-
-## Output
-
-![SquareQuick_2019122621334983](https://user-images.githubusercontent.com/36446402/71645235-45578b00-2cfb-11ea-9118-e286e62c4b86.jpg)
 
 
 ## Authors
