@@ -14,9 +14,9 @@ If a quantum computer with a sufficient number of qubits could operate without s
 
 ## Output
 
-![Screenshot from 2019-12-26 02-05-22](https://user-images.githubusercontent.com/36446402/71672216-59eb6000-2d9b-11ea-95c7-4d543931f7b2.png)
-
 ![Screenshot from 2019-12-26 02-05-00](https://user-images.githubusercontent.com/36446402/71672203-5526ac00-2d9b-11ea-9aff-27a6d9705b33.png)
+
+![Screenshot from 2019-12-26 02-05-22](https://user-images.githubusercontent.com/36446402/71672216-59eb6000-2d9b-11ea-95c7-4d543931f7b2.png)
 
 ![Screenshot from 2019-12-26 02-03-53](https://user-images.githubusercontent.com/36446402/71672192-4cce7100-2d9b-11ea-9a33-68202196974c.png)
 
