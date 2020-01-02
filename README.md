@@ -28,3 +28,7 @@ If a quantum computer with a sufficient number of qubits could operate without s
 * [**Unnikrishnan Menon**](https://github.com/7enTropy7)
 * [**Awnon Bhowmik**](https://github.com/awnonbhowmik)
 
+
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details
