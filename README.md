@@ -12,6 +12,21 @@ Qiskit is an open-source quantum computing software development framework for le
 
 If a quantum computer with a sufficient number of qubits could operate without succumbing to quantum noise and other quantum-decoherence phenomena, then Shor's algorithm could be used to break public-key cryptography schemes, such as the widely-used RSA scheme. RSA is based on the assumption that factoring large integers is computationally intractable. 
 
+## Cloning
+```bash
+$ git clone https://github.com/7enTropy7/Shor-s-Algorithm_Quantum.git
+```
+
+## Dependencies
+```bash
+$ pip3 install -r requirements.txt
+```
+
+## How to Run
+```bash
+$ jupyter notebook Breaking_RSA.ipynb
+```
+
 ## Output
 
 ![Screenshot from 2019-12-26 02-05-00](https://user-images.githubusercontent.com/36446402/71672203-5526ac00-2d9b-11ea-9aff-27a6d9705b33.png)
